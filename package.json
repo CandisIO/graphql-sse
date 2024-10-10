@@ -1,5 +1,5 @@
 {
-  "name": "graphql-sse",
+  "name": "@candisio/graphql-sse",
   "version": "2.5.3",
   "description": "Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client",
   "keywords": [
@@ -16,12 +16,12 @@
     "subscriptions",
     "fastify"
   ],
-  "author": "Denis Badurina <badurinadenis@gmail.com>",
+  "author": "Denis Badurina <badurinadenis@gmail.com>, forked by Candis",
   "license": "MIT",
-  "homepage": "https://github.com/enisdenjo/graphql-sse#readme",
+  "homepage": "https://github.com/CandisIO/graphql-sse#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/enisdenjo/graphql-sse.git"
+    "url": "https://github.com/CandisIO/graphql-sse.git"
   },
   "engines": {
     "node": ">=12"
